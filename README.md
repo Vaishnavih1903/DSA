@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vaishnavih1903/DSA/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Vaishnavih1903/DSA/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
