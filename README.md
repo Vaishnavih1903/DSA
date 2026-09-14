@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Vaishnavih1903/DSA/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Vaishnavih1903/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Vaishnavih1903/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Stack
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Vaishnavih1903/DSA/tree/master/0901-online-stock-span) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Vaishnavih1903/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
