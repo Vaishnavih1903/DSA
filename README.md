@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Vaishnavih1903/DSA/tree/master/0134-gas-station) |
 | [0503-next-greater-element-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0503-next-greater-element-ii) |
+| [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vaishnavih1903/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaishnavih1903/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Vaishnavih1903/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vaishnavih1903/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vaishnavih1903/DSA/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
