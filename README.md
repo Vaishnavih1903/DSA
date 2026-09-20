@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vaishnavih1903/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [3498-reverse-degree-of-a-string](https://github.com/Vaishnavih1903/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vaishnavih1903/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Vaishnavih1903/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
