@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Vaishnavih1903/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavih1903/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaishnavih1903/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaishnavih1903/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Vaishnavih1903/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vaishnavih1903/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vaishnavih1903/DSA/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Vaishnavih1903/DSA/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaishnavih1903/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Vaishnavih1903/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Vaishnavih1903/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Stack
