@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/Vaishnavih1903/DSA/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Vaishnavih1903/DSA/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/Vaishnavih1903/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vaishnavih1903/DSA/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0503-next-greater-element-ii) |
