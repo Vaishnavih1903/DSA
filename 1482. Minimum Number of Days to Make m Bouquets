@@ -1,0 +1,46 @@
+class Solution {
+    public int minDays(int[] nums, int m, int k) {
+        long req=(long)m*k;
+        if(req>nums.length){
+            return -1;
+        }
+        int low=Integer.MAX_VALUE;
+        int high=Integer.MIN_VALUE;
+        for(int n:nums){
+            high=Math.max(high,n);
+            low=Math.min(low,n);
+        }
+        while(low<=high){
+            int mid=(low+high)/2;
+            if(canmake(nums,m,k,mid)){
+                high=mid-1;
+            }else{
+                low=mid+1;
+            }
+        }
+        return low;
+
+
+    }
+
+    boolean canmake(int[]nums,int m,int k,int day){
+        int flow=0;
+        int boq=0;
+        for(int n:nums){
+            if(n<=day){
+                flow++;
+                if(flow==k){
+                    boq++;
+                    flow=0;
+                }
+            }
+            else{
+                flow=0;
+            }
+        }
+        if(boq>=m){
+            return true;
+        }
+        return false;
+    }
+}
