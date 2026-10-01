@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vaishnavih1903/DSA/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/Vaishnavih1903/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vaishnavih1903/DSA/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vaishnavih1903/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Vaishnavih1903/DSA/tree/master/0205-isomorphic-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vaishnavih1903/DSA/tree/master/3498-reverse-degree-of-a-string) |
