@@ -3,33 +3,22 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        int i=0;
-        int j=0;
-        HashMap<Character,Integer>map=new HashMap<>();
-        HashMap<Character,Integer>map2=new HashMap<>();
-        for(char ch:s.toCharArray()){
-            if(!map.containsKey(ch)){
-            map.put(ch,i++);
+
+        int[] map1 = new int[256];
+        int[] map2 = new int[256];
+
+        for(int i=0; i<s.length(); i++){
+            char ch = s.charAt(i);
+            char bh = t.charAt(i);
+
+            if(map1[ch] != map2[bh]){
+                return false;
             }
+
+            map1[ch] = i + 1;
+            map2[bh] = i + 1;
         }
 
-        for(char ch:t.toCharArray()){
-            if(!map2.containsKey(ch)){
-
-            
-            map2.put(ch,j++);
-            }
-        }
-
-
-        List<Integer>list1=new ArrayList<>();
-        List<Integer>list2=new ArrayList<>();
-        for(char ch:s.toCharArray()){
-            list1.add(map.get(ch));
-        }
-        for(char ch:t.toCharArray()){
-            list2.add(map2.get(ch));
-        }
-        return list1.equals(list2);
+        return true;
     }
 }
