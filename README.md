@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Vaishnavih1903/DSA/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Vaishnavih1903/DSA/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Vaishnavih1903/DSA/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vaishnavih1903/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/Vaishnavih1903/DSA/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vaishnavih1903/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Vaishnavih1903/DSA/tree/master/0205-isomorphic-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vaishnavih1903/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
