@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Vaishnavih1903/DSA/tree/master/0901-online-stock-span) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Vaishnavih1903/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/Vaishnavih1903/DSA/tree/master/0410-split-array-largest-sum) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Vaishnavih1903/DSA/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
