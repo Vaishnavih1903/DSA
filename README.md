@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Vaishnavih1903/DSA/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Vaishnavih1903/DSA/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/Vaishnavih1903/DSA/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavih1903/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Vaishnavih1903/DSA/tree/master/0205-isomorphic-strings) |
+| [0344-reverse-string](https://github.com/Vaishnavih1903/DSA/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
