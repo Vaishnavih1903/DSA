@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaishnavih1903/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Vaishnavih1903/DSA/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Vaishnavih1903/DSA/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Vaishnavih1903/DSA/tree/master/0875-koko-eating-bananas) |
 | [1089-duplicate-zeros](https://github.com/Vaishnavih1903/DSA/tree/master/1089-duplicate-zeros) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Vaishnavih1903/DSA/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vaishnavih1903/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavih1903/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Vaishnavih1903/DSA/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Vaishnavih1903/DSA/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
