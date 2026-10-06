@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vaishnavih1903/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/Vaishnavih1903/DSA/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/Vaishnavih1903/DSA/tree/master/0328-odd-even-linked-list) |
 ## Design
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaishnavih1903/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vaishnavih1903/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0189-rotate-array](https://github.com/Vaishnavih1903/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Vaishnavih1903/DSA/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
