@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Vaishnavih1903/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/Vaishnavih1903/DSA/tree/master/0134-gas-station) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0063-unique-paths-ii) |
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Vaishnavih1903/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Vaishnavih1903/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Vaishnavih1903/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaishnavih1903/DSA/tree/master/0119-pascals-triangle-ii) |
