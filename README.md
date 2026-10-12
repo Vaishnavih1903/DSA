@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Vaishnavih1903/DSA/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Vaishnavih1903/DSA/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Vaishnavih1903/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1089-duplicate-zeros](https://github.com/Vaishnavih1903/DSA/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vaishnavih1903/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaishnavih1903/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vaishnavih1903/DSA/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Vaishnavih1903/DSA/tree/master/0221-maximal-square) |
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
+| [0931-minimum-falling-path-sum](https://github.com/Vaishnavih1903/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Vaishnavih1903/DSA/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/Vaishnavih1903/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Vaishnavih1903/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0931-minimum-falling-path-sum](https://github.com/Vaishnavih1903/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vaishnavih1903/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
