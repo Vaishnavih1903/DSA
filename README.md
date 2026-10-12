@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vaishnavih1903/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Vaishnavih1903/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vaishnavih1903/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishnavih1903/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaishnavih1903/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaishnavih1903/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Vaishnavih1903/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vaishnavih1903/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vaishnavih1903/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vaishnavih1903/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishnavih1903/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaishnavih1903/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavih1903/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vaishnavih1903/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Vaishnavih1903/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishnavih1903/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Vaishnavih1903/DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishnavih1903/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
