@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Vaishnavih1903/DSA/tree/master/0832-flipping-an-image) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vaishnavih1903/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavih1903/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vaishnavih1903/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vaishnavih1903/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vaishnavih1903/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavih1903/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavih1903/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vaishnavih1903/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Vaishnavih1903/DSA/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vaishnavih1903/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
