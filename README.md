@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavih1903/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vaishnavih1903/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Vaishnavih1903/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2742-painting-the-walls](https://github.com/Vaishnavih1903/DSA/tree/master/2742-painting-the-walls) |
 | [2747-count-zero-request-servers](https://github.com/Vaishnavih1903/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vaishnavih1903/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishnavih1903/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Vaishnavih1903/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vaishnavih1903/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vaishnavih1903/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2742-painting-the-walls](https://github.com/Vaishnavih1903/DSA/tree/master/2742-painting-the-walls) |
 | [3693-climbing-stairs-ii](https://github.com/Vaishnavih1903/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
 |  |
