@@ -9,23 +9,24 @@ class Solution {
             return false;
         }
         int target=sum/2;
-        boolean[][]dp=new boolean[nums.length+1][target+1];
-        for(int i=0;i<=n;i++){
-            dp[i][0]=true;
-        }
+        boolean[]prev=new boolean[target+1];
+        boolean[]curr=new boolean[target+1];
+        prev[0]=true;
+        curr[0]=true;
 
         for(int i=1;i<=n;i++){
             for(int j=1;j<=target;j++){
-                boolean skip=dp[i-1][j];
+                boolean skip=prev[j];
                 boolean take=false;
                 if(nums[i-1]<=j){
-                    take=dp[i-1][j-nums[i-1]];
+                    take=prev[j-nums[i-1]];
 
                 }
 
-                dp[i][j]=skip||take;
+                curr[j]=skip||take;
             }
+            prev=curr.clone();
         }
-        return dp[n][target];
+        return prev[target];
     }    
 }
