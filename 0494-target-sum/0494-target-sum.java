@@ -21,6 +21,7 @@ class Solution {
             sum+=num;
         }
         target=Math.abs(target);
+        if (target > sum) return 0;
         if((sum+target)%2!=0){
             return 0;
         }
